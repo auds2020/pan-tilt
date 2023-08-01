@@ -7,4 +7,4 @@ We have a gimbal controlled by two servos, one controlling pan and one tilt. On 
 We also have a series of maintained switches, which are wired to the Pi's GIPO pins. Finally, a USB microphone is connected for audio input, and audio output is given through the audio jack to a speaker. 
 
 Function:
-The Pi should record audio until the record button is released, and play audio until a given play button is released. If multiple play buttons are pressed at once, then the sounds should overlay one another.
+The Pi should record audio until the record button is released, and play audio until a given play button is released. If multiple play buttons are pressed at once, then the sounds should overlay one another. Meanwhile, the gimbal should "follow" a person's face as they move around the room.
