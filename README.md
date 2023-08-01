@@ -1,4 +1,4 @@
-# Pan tilt for Raspberry Pi with audio functionality. 
+# Pan tilt for Raspberry Pi with audio functionality
 
 This project was originally created as a final project for my electronics II class, with the eventual hope it will be integrated into a life-size WALL-E prototype.
 
